@@ -1,0 +1,18 @@
+{
+    "Arisha": {
+        "balance": 1494.0,
+        "type": "SavingsAcct"
+    },
+    "Anika": {
+        "balance": 6020.0,
+        "type": "BankAccount"
+    },
+    "anika": {
+        "balance": 200.0,
+        "type": "BankAccount"
+    },
+    "": {
+        "balance": 0.0,
+        "type": "BankAccount"
+    }
+}
